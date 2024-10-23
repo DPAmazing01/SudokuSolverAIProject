@@ -1,4 +1,6 @@
-The program should be compiled using the "python sudoku.py" format. (Project was done with a team of 5, where I worked on the AC and BM algorithms along with helping with integrating the UI)
+(Project was done with a team of 5, where I worked on the AC and BM algorithms along with helping with integrating the UI)
+
+The program should be compiled using the "python sudoku.py" format.
 Select an algorithm from the list on the left side of the UI and a puzzle board from the list on the right.  Make sure one item from each list is selected, then press "Solve the Puzzle".
 Another UI window will open that shows the puzzle being solved.  When the puzzle is solved, the number of backtracks (if applicable) and time taken will be printed to the terminal.  Close the UI window to end the program at any time.
 

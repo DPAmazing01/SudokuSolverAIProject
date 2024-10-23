@@ -1,0 +1,20 @@
+The program should be compiled using the "python sudoku.py" format.
+Select an algorithm from the list on the left side of the UI and a puzzle board from the list on the right.  Make sure one item from each list is selected, then press "Solve the Puzzle".
+Another UI window will open that shows the puzzle being solved.  When the puzzle is solved, the number of backtracks (if applicable) and time taken will be printed to the terminal.  Close the UI window to end the program at any time.
+
+Selectable Algorithms (ALG):
+
+FC - Forward Checking
+AC - Arc Consistency
+PC - Path Consistency
+BS - Beam Stack Search
+BM - Breakout Method
+
+Selectable Boards:
+
+Board1 - Easy
+Board2 - Easy
+Board3 - Medium
+Board4 - Medium
+Board5 - Hard
+Board6 - Hard
